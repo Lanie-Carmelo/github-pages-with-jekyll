@@ -8,3 +8,4 @@ twitter_username: Lanie_Molinar
 github_username:  Lanie-Molinar
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
